@@ -1,4 +1,4 @@
-# symblog tutorial - Creating a blog in Symfony2
+## symblog tutorial - Creating a blog in Symfony2
 
 ## Introduction
 
